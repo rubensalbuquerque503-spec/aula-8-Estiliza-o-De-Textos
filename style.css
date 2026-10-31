@@ -1,0 +1,91 @@
+
+body {
+    font-family: Arial, Verdana, sans-serif;
+    background-color: #f0f2f5;
+    color: #333333;
+    margin: 0;
+}
+
+header {
+    background-color: #123c69;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+header h1 {
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+header p {
+    font-style: italic;
+    font-size: 16px;
+}
+
+main {
+    width: 80%;
+    margin: 30px auto;
+    background-color: white;
+    padding: 25px;
+}
+
+h2 {
+    color: #123c69;
+    font-size: 24px;
+    text-align: left;
+    text-decoration: underline;
+}
+
+h3 {
+    color: #007722;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.introducao {
+    text-indent: 50px;
+    line-height: 30px;
+    text-align: justify;
+}
+
+.html {
+    color: #e44d26;
+    font-weight: bold;
+}
+
+.css {
+    color: #264de4;
+    font-style: italic;
+}
+
+.javascript {
+    color: #b58b00;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.importancia {
+    word-spacing: 5px;
+    line-height: 30px;
+    text-align: justify;
+}
+
+footer {
+    background-color: #123c69;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+footer h4 {
+    text-decoration: underline;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+footer p {
+    font: italic bold 14px Arial, sans-serif;
+}
+
